@@ -2,6 +2,8 @@
 
 Ссылка на проект - https://t.me/neuroassaistkrim_bot
 
+https://github.com/zhannanskmari/neuroassist/blob/main/ChatGPT%20Image%207%20мар.%202026%20г.,%2011_38_16.png?raw=true
+
 ## 1. Паспорт проекта
 
 | Параметр | Описание |
